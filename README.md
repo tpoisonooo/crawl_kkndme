@@ -1,6 +1,11 @@
 # crawl_kkndme
 [kkndme 2010 年言论](http://bbs.tianya.cn/post-house-252774-1.shtml) 爬取结果。原始帖子掺杂太多噪音，并且 APP 已下架无法仅“看楼主”。
 
+用法
+```bash
+$ google-chrome kkndme.html
+```
+
 
 ## 关注点
 
